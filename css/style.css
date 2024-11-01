@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+.wprequal_rates{
+	color:#000;
+	background-color:#e6e6e6;
+	border:#CCCCCC thin solid;
+	padding:15px 5px;
+	max-width:400px;
+	min-width:280px;
+	border-radius: 4px;
+	margin:0 auto;
+}
+
+.wprequal_rates_wrap{
+	background-color:#fff;
+	padding:7px 2px;
+	border-radius: 4px;
+	min-height:100px;
+}
+
+.wprequal_short_wrap{
+	padding-bottom:30px;
+}
+
+/*
+// Tables for Mortgage Rates
+*/
+
+#wprequal_rates .table {
+	display: table;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+ #wprequal_rates .table-row {
+	max-width: 100%;
+	display: table-row;
+	font-size: 24px;
+}
+
+#wprequal_rates .table-cell, 
+#wprequal_rates .table-head {
+	display: table-cell;
+	padding: 3px;
+	border: #f0f0f0 1px solid;
+}
+
+
+#wprequal_rates .row-title {
+	text-align: left;
+}
+
+#wprequal_rates .shade {
+	background-color: #f5f5f5;
+}
+
+#wprequal_rates .table-cell, 
+#wprequal_rates .table-head{
+	font-size:12px;
+}
+
+#wprequal_rates .cemter,
+#wprequal_rates h2,
+#wprequal_rates .table-head,
+#wprequal_rates .row-x{
+	text-align:center;
+}
+
+#wprequal_rates .green{
+	color:green;
+}
+
+#wprequal_rates .red{
+	color:red;
+}
